@@ -1,3 +1,5 @@
+# Just fun (horror) in Python 3 for Beginners
+# By @mahin
 import pygame
 from time import sleep
 pygame.init()
